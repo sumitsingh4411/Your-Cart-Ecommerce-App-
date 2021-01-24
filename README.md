@@ -1,3 +1,18 @@
+# YourCart (Ecommerce application)
+### [Live Site](https://yourcartz.herokuapp.com/)
+
+![netflix](https://i.ibb.co/PQBSJcv/Capture.png)
+![netflix](https://i.ibb.co/T0CrVNg/Capture1.png)
+![netflix](https://i.ibb.co/QcPThnD/Capture3.png)
+
+## Introduction
+This is a code repository for the corresponding Yourcart . 
+
+In this repository, we're going to build a fully functional ecommerce application using reactjs. 
+
+While building it you're going to learn many advanced React , JavaScript topics, Hooks concept ,API fetching with axios, commercejs npm, material ui and many more.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +83,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
